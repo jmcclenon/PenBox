@@ -50,6 +50,15 @@ A Penetration Testing Framework , The Hacker’s Repo our hope is in the last ve
 + Vbulletin 5.X remote code execution
 + BruteX - Automatically brute force all services running on a target
 + Arachni - Web Application Security Scanner Framework
++ Sub-domain Scanning
++ Wordpress Scanning
++ Wordpress Username Enumeration
++ Wordpress Backup Grabbing
++ Sensitive File Detection
++ Same-Site Scripting Scanning
++ Click Jacking Detection
++ Powerful XSS vulnerability scanning
++ SQL Injection vulnerability scanning
 
 #Private Tools
 + Get all websites
@@ -69,9 +78,40 @@ A Penetration Testing Framework , The Hacker’s Repo our hope is in the last ve
 + Shell Checker
 + POET
 + Weeman - Phishing Framework
++ Insecure Web Interface
++ Insufficient Authentication/Authorization
++ Insecure Network Services
++ Lack of Transport Encryption
++ Privacy Concerns
++ Insecure Cloud Interface
++ Insecure Mobile Interface
++ Insufficient Security Configurability
++ Insecure Software/Firmware
++ Poor Physical Security
 
 #Recon
 + Sniper
- 
+
+#Smartphones Penetration
++ Attach Framework to a Deployed Agent/Create Agent
++ Send Commands to an Agent
++ View Information Gathered
++ Attach Framework to a Mobile Modem
++ Run a remote attack
++ Run a social engineering or client side attack
++ Compile code to run on mobile devices
++ Install Stuff
++ Use Drozer
++ Setup API
++ Bruteforce the Android Passcode given the hash and salt
+
+#QRLJacking Attack Vector
++ Chat Applications
++ Mailing Services
++ eCommerce
++ Online Banking
++ Passport Services
++ Mobile Management Software
+
 #Installation
 git clone https://github.com/x3omdax/PenBox.git 
